@@ -1,0 +1,11 @@
+.header{
+  height: 80px;
+  background-color: #DEA24E;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.reactLogo{
+  width: 65px;
+}

@@ -1,0 +1,35 @@
+.branch__info__button{
+  width: 100px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+  background-color: #EB7646;
+  border-radius: 2%;
+  color: #79cfdb;
+  font-family: Roboto, sans-serif;
+  margin-left: 30px;
+  border: none;
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.branch__info__button:hover{
+  transition: all 1s;
+  background-color: #ff9b73;
+  color: #e4fcff;
+}
+
+.branch__info{
+  font-size: 19px;
+  font-family: Roboto, sans-serif;
+}
+
+.branch{
+  display: flex;
+  align-items: center;
+}
+
+ul{
+  list-style: none;
+}
